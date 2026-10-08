@@ -1,0 +1,6 @@
+{
+  "name": "Rizvi Fruit - Premium Organic Fruit & Juice Market",
+  "description": "Farm-fresh organic fruits, seasonal harvest picks, hand-selected nuts, and cold-pressed pure juices delivered with care across Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
